@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /__404$
+Disallow: /shop/products/__product_5d0388fb64dd686939fe7796$
+Disallow: /shop/products/__product_5d1af9498c957e1ec89ddfc1$
+Disallow: /shop/products/__product_5d1c43de301e1268737d8427$
+Disallow: /shop/products/__product_607035bd1bd15835e5e59bea$
+Disallow: /shop/products/__product_61d8024878c09c0e522800b8$
+Disallow: /shop/checkout$
+Disallow: /shop/order/success$
+Disallow: /katalog$
+Disallow: /sitesearch.html$
+Disallow: /sitesearch
+Disallow: /html/
+Disallow: /widgets/
+
+Sitemap: https://magnum-smoke.ru/sitemap.xml
